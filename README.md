@@ -1,4 +1,4 @@
-# Reproducible Statistical and Machine Learning Pipeline: Bangladeshi University Admission Examinees Study
+# Machine Learning Pipeline: Bangladeshi University Admission Examinees Study
 
 ## Overview
 
