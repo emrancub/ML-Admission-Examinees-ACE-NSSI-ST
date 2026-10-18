@@ -1,0 +1,3 @@
+# CUDA-capable project dependencies.
+# XGBoost and CatBoost use the system NVIDIA/CUDA runtime when R2_USE_CUDA=1.
+-r requirements.txt
